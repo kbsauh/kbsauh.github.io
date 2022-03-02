@@ -366,7 +366,7 @@ ul.btn li:last-child {
      width: 100%;
      padding: 20px 30px;
      border-bottom: #000 solid 20px;
-     background-image: linear-gradient(to bottom, #1559b7, #4f7af3);
+     background-image: linear-gradient(to bottom, #1e0222, #d190da);
 }
 
 .logo a {
@@ -381,7 +381,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../img/kbs/banner1.jpg);
      background-repeat: no-repeat;
      min-height: 700px;
      background-size: 100% 100%;
